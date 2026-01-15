@@ -1,0 +1,9 @@
+Variables de entorno typescript y como configurarlas
+npm init -y
+tsc init
+npm install awilix
+npm install awilix-express
+
+Parcial es en base a lo que se ha trabajado, dejara un problema y se resolvera en base a lo visto
+
+Examen nos va a dar un script de sql, el cual tenemos que agregar logica de validacion y como devolver los datos
